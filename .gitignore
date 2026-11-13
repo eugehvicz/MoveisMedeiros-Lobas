@@ -56,3 +56,4 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 *.vsidx
+/.vs/MoveisMedeiros.Api.slnx/v18/.suo
