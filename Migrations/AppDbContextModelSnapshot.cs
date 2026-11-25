@@ -167,7 +167,7 @@ namespace MoveisMedeiros.Api.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ObraId")
+                    b.Property<int>("ItemObraId")
                         .HasColumnType("int");
 
                     b.Property<string>("Observacoes")
@@ -180,7 +180,7 @@ namespace MoveisMedeiros.Api.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ObraId");
+                    b.HasIndex("ItemObraId");
 
                     b.ToTable("Inspecoes");
                 });
@@ -351,13 +351,13 @@ namespace MoveisMedeiros.Api.Migrations
 
             modelBuilder.Entity("MoveisMedeiros.Api.Models.Inspecao", b =>
                 {
-                    b.HasOne("MoveisMedeiros.Api.Models.Obra", "Obra")
+                    b.HasOne("MoveisMedeiros.Api.Models.ItemObra", "ItemObra")
                         .WithMany("Inspecoes")
-                        .HasForeignKey("ObraId")
+                        .HasForeignKey("ItemObraId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Obra");
+                    b.Navigation("ItemObra");
                 });
 
             modelBuilder.Entity("MoveisMedeiros.Api.Models.ItemObra", b =>
@@ -407,13 +407,16 @@ namespace MoveisMedeiros.Api.Migrations
                     b.Navigation("Checklist");
                 });
 
+            modelBuilder.Entity("MoveisMedeiros.Api.Models.ItemObra", b =>
+                {
+                    b.Navigation("Inspecoes");
+                });
+
             modelBuilder.Entity("MoveisMedeiros.Api.Models.Obra", b =>
                 {
                     b.Navigation("Documentos");
 
                     b.Navigation("Historicos");
-
-                    b.Navigation("Inspecoes");
 
                     b.Navigation("Itens");
                 });

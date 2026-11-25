@@ -22,7 +22,7 @@ namespace MoveisMedeiros.Api.Models
 
         public List<ItemObra> Itens { get; set; } = new List<ItemObra>();
 
-        public List<Inspecao> Inspecoes { get; set; } = new List<Inspecao>();
+        
 
         public List<Documento> Documentos { get; set; } = new List<Documento>();
 

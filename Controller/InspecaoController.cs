@@ -33,7 +33,6 @@ namespace MoveisMedeiros.Api.Controllers
                 InspecaoKey = inspecaoDTO.InspecaoKey,
                 Status = inspecaoDTO.Status,
                 Observacoes = inspecaoDTO.Observacoes,
-                ObraId = inspecaoDTO.ObraId,
                 FurnitureId = inspecaoDTO.FurnitureId
             };
 
@@ -49,15 +48,12 @@ namespace MoveisMedeiros.Api.Controllers
             GetInspecoes()
         {
             var inspecoes = await _context.Inspecoes
-                .Include(i => i.Obra)
                 .Select(i => new InspecaoDto
                 {
                     Id = i.Id,
                     InspecaoKey = i.InspecaoKey,
                     Status = i.Status,
                     Observacoes = i.Observacoes,
-                    ObraId = i.ObraId,
-                    NomeObra = i.Obra!.Nome,
                     FurnitureId = i.FurnitureId
                 })
                 .ToListAsync();
@@ -83,7 +79,7 @@ namespace MoveisMedeiros.Api.Controllers
             inspecao.InspecaoKey = inspecaoDTO.InspecaoKey;
             inspecao.Status = inspecaoDTO.Status;
             inspecao.Observacoes = inspecaoDTO.Observacoes;
-            inspecao.ObraId = inspecaoDTO.ObraId;
+            //inspecao.ObraId = inspecaoDTO.ObraId;
             inspecao.FurnitureId = inspecaoDTO.FurnitureId;
 
             await _context.SaveChangesAsync();

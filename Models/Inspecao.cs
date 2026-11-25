@@ -10,8 +10,8 @@
 
         public string Observacoes { get; set; }
 
-        public int ObraId { get; set; }
-        public Obra? Obra { get; set; }
+        public int ItemObraId { get; set; }
+        public ItemObra? ItemObra { get; set; }
 
         public string FurnitureId { get; set; }
 

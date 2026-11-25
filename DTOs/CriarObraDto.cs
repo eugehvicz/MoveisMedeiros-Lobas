@@ -1,4 +1,7 @@
-﻿namespace MoveisMedeiros.Api.DTOs
+﻿using MoveisMedeiros.Api.Models;
+using System.Text.Json.Serialization;
+
+namespace MoveisMedeiros.Api.DTOs
 {
     public class CriarObraDto
     {
@@ -7,6 +10,7 @@
         public string Descricao { get; set; }
         public DateTime DataInicio { get; set; }
         public DateTime? DataPrevisao { get; set; }
+        public List<ItemObra> Itens { get; set; }
         public string Status { get; set; }
         public int ClienteId { get; set; }
     }

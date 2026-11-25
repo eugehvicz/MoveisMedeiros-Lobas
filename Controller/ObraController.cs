@@ -37,6 +37,56 @@ namespace MoveisMedeiros.Api.Controllers
                 ClienteId = obraDTO.ClienteId
             };
 
+            //Adicionar lista de itens à obra
+            foreach (var item in obraDTO.Itens)
+            {
+                var novoItem = new ItemObra
+                {
+                    NomeMovel = item.NomeMovel,
+                   Tipo = item.Tipo,
+                    Altura = item.Altura,
+                    Largura = item.Largura,
+                    Material = item.Material,
+                    Ambiente = item.Ambiente,
+
+                    Inspecoes = new List<Inspecao>
+                    {
+                        new Inspecao
+                        {
+                            InspecaoKey = "",
+                            Status = "teste",
+                            Observacoes = "teste",
+                            FurnitureId = "testeeee",
+                            Checklist = new List<Checklist>
+                            {
+                                new Checklist
+                                {
+                                    Descricao = "Medidas confe",
+                                    
+                                },
+                                new Checklist
+                                {
+                                    Descricao = "Medidas mont",
+
+                                },
+                                new Checklist
+                                {
+                                    Descricao = "Medidas entrega",
+
+                                },
+                                new Checklist
+                                {
+                                    Descricao = "Medidas final",
+                                }
+                            }
+
+                        }
+                    }
+                };
+                obra.Itens.Add(novoItem);
+            }
+
+
             _context.Obras.Add(obra);
 
             await _context.SaveChangesAsync();
@@ -44,11 +94,11 @@ namespace MoveisMedeiros.Api.Controllers
             return Ok("Obra cadastrada com sucesso!");
         }
 
-        [HttpGet]
-        public async Task<ActionResult<IEnumerable<ObraDto>>>
-            GetObras()
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<ObraDto>> GetObra(int id)
         {
-            var obras = await _context.Obras
+            var obra = await _context.Obras
                 .Include(o => o.Cliente)
                 .Select(o => new ObraDto
                 {
@@ -57,6 +107,21 @@ namespace MoveisMedeiros.Api.Controllers
                     Endereco = o.Endereco,
                     NomeCliente = o.Cliente!.Nome
                 })
+                .FirstOrDefaultAsync(o => o.Id == id);
+
+            if (obra == null)
+                return NotFound("Obra não encontrada.");
+
+            return Ok(obra);
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Obra>>>
+            GetObras()
+        {
+            var obras = await _context.Obras
+                .Include(o => o.Cliente)
+                .Include(o => o.Itens)
                 .ToListAsync();
 
             return Ok(obras);
@@ -93,7 +158,6 @@ namespace MoveisMedeiros.Api.Controllers
         {
             var obra = await _context.Obras
                 .Include(o => o.Itens)
-                .Include(o => o.Inspecoes)
                 .Include(o => o.Documentos)
                 .Include(o => o.Historicos)
                 .FirstOrDefaultAsync(o => o.Id == id);
@@ -102,7 +166,6 @@ namespace MoveisMedeiros.Api.Controllers
                 return NotFound("Obra não encontrada.");
 
             if (obra.Itens.Any() ||
-                obra.Inspecoes.Any() ||
                 obra.Documentos.Any() ||
                 obra.Historicos.Any())
             {

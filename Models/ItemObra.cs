@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace MoveisMedeiros.Api.Models
 {
@@ -12,7 +13,12 @@ namespace MoveisMedeiros.Api.Models
         public decimal Altura { get; set; }
         public decimal Largura { get; set; }
 
+        [JsonIgnore]
+        public List<Inspecao> Inspecoes { get; set; } = new List<Inspecao>();
+
         public int ObraId { get; set; }
-        public Obra Obra { get; set; }
+
+        [JsonIgnore]
+        public Obra? Obra { get; set; }
     }
 }
