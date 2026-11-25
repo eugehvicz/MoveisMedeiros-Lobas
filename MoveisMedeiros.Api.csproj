@@ -19,8 +19,4 @@
     <PackageReference Include="System.Security.Cryptography.Pkcs" Version="10.0.15" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controller\" />
-  </ItemGroup>
-
 </Project>
