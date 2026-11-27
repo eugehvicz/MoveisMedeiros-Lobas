@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\controller\\obracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:controller\\obracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Migrations\\20261125202014_AlterCOlunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20261125202014_AlterCOlunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\itemobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\itemobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\dtos\\criarobradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:dtos\\criarobradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Migrations\\20261127181526_Hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20261127181526_Hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\obra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\obra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\itemobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\itemobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Migrations\\20261127165259_AddNullColunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20261127165259_AddNullColunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\inspecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\inspecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\controller\\obracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:controller\\obracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\dtos\\criarobradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:dtos\\criarobradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\controller\\inspecaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,8 +83,8 @@
       "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|c:\\users\\49768272830\\source\\repos\\moveismedeiros-lobas1\\migrations\\20261125202014_altercolunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59403649-9B8F-9EFD-32EE-67990F911A89}|MoveisMedeiros.Api.csproj|solutionrelative:migrations\\20261125202014_altercolunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +102,124 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-27T18:22:42.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20261127181526_Hash.cs",
+              "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Migrations\\20261127181526_Hash.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261127181526_Hash.cs",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Migrations\\20261127181526_Hash.cs",
+              "RelativeToolTip": "Migrations\\20261127181526_Hash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T18:15:27.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T17:34:48.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Controller\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controller\\LoginController.cs",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Controller\\LoginController.cs",
+              "RelativeToolTip": "Controller\\LoginController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAASwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T17:33:53.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controller\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Controller\\UsuarioController.cs",
+              "RelativeToolTip": "Controller\\UsuarioController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T17:29:33.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Historico.cs",
+              "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Historico.cs",
+              "RelativeDocumentMoniker": "Models\\Historico.cs",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Historico.cs",
+              "RelativeToolTip": "Models\\Historico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T16:57:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Documento.cs",
+              "RelativeDocumentMoniker": "Models\\Documento.cs",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Documento.cs",
+              "RelativeToolTip": "Models\\Documento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T16:56:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T16:55:48.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20261127165259_AddNullColunas.cs",
+              "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Migrations\\20261127165259_AddNullColunas.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261127165259_AddNullColunas.cs",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Migrations\\20261127165259_AddNullColunas.cs",
+              "RelativeToolTip": "Migrations\\20261127165259_AddNullColunas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T16:52:59.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "20261125202014_AlterCOlunas.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Migrations\\20261125202014_AlterCOlunas.cs",
               "RelativeDocumentMoniker": "Migrations\\20261125202014_AlterCOlunas.cs",
@@ -74,12 +227,11 @@
               "RelativeToolTip": "Migrations\\20261125202014_AlterCOlunas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T20:20:14.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T20:20:14.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "CriarObraDto.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\DTOs\\CriarObraDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CriarObraDto.cs",
@@ -87,38 +239,37 @@
               "RelativeToolTip": "DTOs\\CriarObraDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T20:11:23.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T20:11:23.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ItemObra.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\ItemObra.cs",
               "RelativeDocumentMoniker": "Models\\ItemObra.cs",
               "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\ItemObra.cs",
               "RelativeToolTip": "Models\\ItemObra.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T20:01:19.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Inspecao.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Inspecao.cs",
               "RelativeDocumentMoniker": "Models\\Inspecao.cs",
               "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Inspecao.cs",
               "RelativeToolTip": "Models\\Inspecao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T20:02:04.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "InspecaoController.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Controller\\InspecaoController.cs",
               "RelativeDocumentMoniker": "Controller\\InspecaoController.cs",
@@ -126,51 +277,50 @@
               "RelativeToolTip": "Controller\\InspecaoController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAApwFEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T20:02:39.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T20:02:39.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Checklist.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Checklist.cs",
               "RelativeDocumentMoniker": "Models\\Checklist.cs",
               "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Checklist.cs",
               "RelativeToolTip": "Models\\Checklist.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T19:55:07.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "ObraController.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Controller\\ObraController.cs",
               "RelativeDocumentMoniker": "Controller\\ObraController.cs",
-              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Controller\\ObraController.cs*",
-              "RelativeToolTip": "Controller\\ObraController.cs*",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDkAAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Controller\\ObraController.cs",
+              "RelativeToolTip": "Controller\\ObraController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAApwDUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T19:50:13.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Obra.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Obra.cs",
               "RelativeDocumentMoniker": "Models\\Obra.cs",
               "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Obra.cs",
               "RelativeToolTip": "Models\\Obra.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T19:49:51.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "ClienteDto.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\DTOs\\ClienteDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ClienteDto.cs",
@@ -178,12 +328,11 @@
               "RelativeToolTip": "DTOs\\ClienteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T19:25:36.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T19:25:36.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "CriarClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\DTOs\\CriarClienteDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\CriarClienteDTO.cs",
@@ -191,25 +340,24 @@
               "RelativeToolTip": "DTOs\\CriarClienteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T19:25:02.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T19:25:02.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
               "ToolTip": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Models\\Cliente.cs",
               "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T19:21:44.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\49768272830\\source\\repos\\MoveisMedeiros-Lobas1\\Controller\\ClienteController.cs",
               "RelativeDocumentMoniker": "Controller\\ClienteController.cs",
@@ -217,8 +365,7 @@
               "RelativeToolTip": "Controller\\ClienteController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAADwvxcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T19:22:55.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T19:22:55.859Z"
             }
           ]
         }

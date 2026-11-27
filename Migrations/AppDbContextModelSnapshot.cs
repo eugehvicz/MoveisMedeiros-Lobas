@@ -31,7 +31,6 @@ namespace MoveisMedeiros.Api.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Chave")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Descricao")
@@ -39,7 +38,6 @@ namespace MoveisMedeiros.Api.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("DescricaoProblema")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("InspecaoId")
@@ -49,7 +47,6 @@ namespace MoveisMedeiros.Api.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("UrlImagem")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -160,22 +157,18 @@ namespace MoveisMedeiros.Api.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("FurnitureId")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("InspecaoKey")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("ItemObraId")
                         .HasColumnType("int");
 
                     b.Property<string>("Observacoes")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Status")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -279,6 +272,10 @@ namespace MoveisMedeiros.Api.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Perfil")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Senha")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

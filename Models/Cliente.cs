@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace MoveisMedeiros.Api.Models
 {
@@ -15,6 +16,7 @@ namespace MoveisMedeiros.Api.Models
 
         public string Email { get; set; }
 
+        [JsonIgnore]
         public List<Obra> Obras { get; set; } = new List<Obra>();
     }
 }
